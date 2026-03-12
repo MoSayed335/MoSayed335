@@ -1,51 +1,93 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Mohamed</a></h1>
-<h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
+<h1 align="center">Hi 👋, I'm Mohamed</h1>
+<h3 align="center">Backend Developer (.NET) | ASP.NET Core | SQL Server</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+<p align="center">
+Passionate about building scalable backend systems and clean APIs using the .NET ecosystem.
+</p>
 
-<p align="left"> <a href="https://x.com/XMohamed20X" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=MoSayed335&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+<img align="right" height="300" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-* 🔭 I’m currently working on **Backend projects using ASP.NET Core MVC**
+---
 
-* 🌱 I’m currently improving my skills in **.NET Backend Development and Database Design**
+### 🚀 About Me
 
-* 🤝 I’m available for **Backend Development opportunities and freelance projects**
+- 🔭 I’m currently working on **Backend projects using ASP.NET Core MVC**
+- 🌱 I’m improving my skills in **Advanced .NET Development & System Design**
+- 💬 Ask me about **C#, ASP.NET Core, Entity Framework Core, SQL Server**
+- 🤝 Open to **Backend Developer Opportunities**
+- 📫 Reach me at **mo.sayed2037@gmail.com**
 
-* 🌱 I’m currently learning more about **Advanced ASP.NET Core and Web APIs**
+---
 
-* 📝 I share projects and code on my GitHub to demonstrate my **.NET development skills**
+### 🛠 Tech Stack
 
-* 💬 Ask me about **C#, ASP.NET Core MVC, Entity Framework Core, and SQL Server**
+**Backend**
+- C#
+- ASP.NET Core
+- Entity Framework Core
+- Web API
 
-* 📫 How to reach me **[mo.sayed2037@gmail.com]**
+**Database**
+- SQL Server
+- Database Design
+- Query Optimization
 
+**Tools**
+- Git
+- GitHub
+- Visual Studio
+- Postman
 
-- 📄 Know about my experiences <a href="https://github.com/MoSayed335/CV/blob/main/Mohamed%20AbdelKader.pdf" target="blank">Resume</a>
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+---
+
+### 📄 Resume
+
+👉 <a href="https://github.com/MoSayed335/CV/blob/main/Mohamed%20AbdelKader.pdf" target="_blank">Download My Resume</a>
+
+---
+
+### 🌐 Connect With Me
 
 <p align="center">
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/mohamed-sayed-420223359">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/MoSayed335">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/31632516/mohamed-sayed">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-        <!-- <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a> -->
-      </div>
+<a href="https://www.linkedin.com/in/mohamed-sayed-420223359" target="_blank">
+<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+</a>
+
+<a href="https://github.com/MoSayed335" target="_blank">
+<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"/>
+</a>
+
+<a href="https://stackoverflow.com/users/31632516/mohamed-sayed" target="_blank">
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"/>
+</a>
 
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MoSayed335&show_icons=true&theme=tokyonight"/>
+
+</p>
+
+---
+
+### 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoSayed335&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+⭐ *Always learning and building backend systems with .NET*
