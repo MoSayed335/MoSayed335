@@ -1,76 +1,91 @@
-<h1 align="center">Hi 👋, I'm Mohamed</h1>
-<h3 align="center">Backend Developer (.NET) | ASP.NET Core | SQL Server</h3>
+<h1 align="center">Hi 👋, I'm Mohamed Mazen</h1>
+
+<h3 align="center">
+Backend Developer | .NET | ASP.NET Core | SQL Server
+</h3>
 
 <p align="center">
-Passionate about building scalable backend systems and clean APIs using the .NET ecosystem.
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer+.NET;ASP.NET+Core+Developer;Building+Scalable+APIs;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=MoSayed335&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-<img align="right" height="300" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="right" height="280" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🔭 I’m currently working on **Backend projects using ASP.NET Core MVC**
-- 🌱 I’m improving my skills in **Advanced .NET Development & System Design**
+- 🔭 I’m currently working on **Backend projects using ASP.NET Core**
+- 🌱 I’m currently learning **Advanced ASP.NET Core & Clean Architecture**
 - 💬 Ask me about **C#, ASP.NET Core, Entity Framework Core, SQL Server**
 - 🤝 Open to **Backend Developer Opportunities**
 - 📫 Reach me at **mo.sayed2037@gmail.com**
 
 ---
 
-### 🛠 Tech Stack
+# 🛠 Tech Stack
 
-**Backend**
-- C#
-- ASP.NET Core
-- Entity Framework Core
-- Web API
+### 💻 Backend
 
-**Database**
-- SQL Server
-- Database Design
-- Query Optimization
+<p>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web%20API-008080?style=for-the-badge"/>
+</p>
 
-**Tools**
-- Git
-- GitHub
-- Visual Studio
-- Postman
+### 🗄 Database
+
+<p>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+<img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge"/>
+</p>
+
+### ⚙ Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio"/>
+</p>
 
 ---
 
-### 📄 Resume
+# 📄 Resume
 
-👉 <a href="https://github.com/MoSayed335/CV/blob/main/Mohamed%20AbdelKader.pdf" target="_blank">Download My Resume</a>
+📥 **Download CV**
+
+<a href="https://github.com/MoSayed335/CV/blob/main/Mohamed%20AbdelKader.pdf">
+<img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge"/>
+</a>
 
 ---
 
-### 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/mohamed-sayed-420223359" target="_blank">
-<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+<a href="https://www.linkedin.com/in/mohamed-sayed-420223359">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/MoSayed335" target="_blank">
-<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"/>
+<a href="https://github.com/MoSayed335">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://stackoverflow.com/users/31632516/mohamed-sayed" target="_blank">
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"/>
+<a href="https://stackoverflow.com/users/31632516/mohamed-sayed">
+<img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow"/>
 </a>
 
 </p>
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -80,14 +95,28 @@ Passionate about building scalable backend systems and clean APIs using the .NET
 
 ---
 
-### 📈 Most Used Languages
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoSayed335&layout=compact&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=MoSayed335&theme=tokyonight"/>
 
 </p>
 
 ---
 
-⭐ *Always learning and building backend systems with .NET*
+# 📈 Most Used Languages
+
+<p align="center">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+</p>
+
+---
+
+⭐ **Always learning and building backend systems with .NET**
