@@ -249,7 +249,7 @@ Backend Developer roles & collaborations
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=b983ff&center=true&vCenter=true&width=600&lines=%2B+Always+learning...;%2B+Always+shipping...;%2B+Always+debugging+with+a+smile+%F0%9F%98%84" alt="footer typing"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=b983ff&center=true&vCenter=true&width=600&lines=%2B+Always+learning...;%2B+Always+shipping...;%2B+Always+debugging+with+a+smile+%F0%9F%98%84" alt="footer typing"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
 
