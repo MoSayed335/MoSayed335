@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=MOHAMED%20SAYED&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=%3C%20Backend%20Engineer%20/%20.NET%20%26%20C%23%20/%20API%20Architect%20%3E&descAlignY=52&descSize=18&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=B983FF&center=true&vCenter=true&width=700&lines=%3E+whoami;Backend+Developer+crafting+.NET+APIs;%3E+cat+skills.json;C%23+%7C+ASP.NET+Core+%7C+EF+Core+%7C+SQL+Server;%3E+status+--current;Compiling+ideas+into+production+code..." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=25&duration=2500&pause=800&color=B983FF&center=true&vCenter=true&width=750&lines=%3E+whoami;Backend+Developer+crafting+.NET+APIs;%3E+cat+skills.json;C%23+%7C+ASP.NET+Core+%7C+EF+Core+%7C+SQL+Server;%3E+cat+resilience.json;Redis+%7C+Hangfire+%7C+Health+Checks;%3E+status+--current;Compiling+ideas+into+production+code..." alt="Typing SVG"/>
 
 <br/>
 
@@ -24,11 +24,15 @@
 
 name:        Mohamed Sayed
 role:        Backend Developer
-stack:       [C#, .NET, ASP.NET Core, SQL Server]
+stack:       [C#, .NET, ASP.NET Core, SQL Server, Redis]
 status:      🟢 online — open to opportunities
 currently:
   building:  Scalable REST APIs w/ ASP.NET Core
   learning:  Clean Architecture, CQRS, DDD
+  reliability:
+    - Redis caching layers
+    - Hangfire background jobs
+    - ASP.NET Core Health Checks
   debugging: My own sleep schedule 😅
 ask_me:      C# · EF Core · SQL performance tuning
 contact:     mo.sayed2037@gmail.com
@@ -55,9 +59,9 @@ contact:     mo.sayed2037@gmail.com
 
 <table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Backend Core**
+**⚙️ Core .NET Ecosystem**
 <br/>
 ![C#](https://img.shields.io/badge/C%23-Expert-239120?style=flat-square&logo=c-sharp&logoColor=white)
 <br/>
@@ -66,19 +70,23 @@ contact:     mo.sayed2037@gmail.com
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-Expert-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
 <br/>
 ![EF Core](https://img.shields.io/badge/EF%20Core-Advanced-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+<br/>
+![Web API](https://img.shields.io/badge/RESTful%20Web%20API-Advanced-008080?style=flat-square&logo=fastapi&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Data & Architecture**
+**🛡️ Data, Caching & Reliability**
 <br/>
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-Advanced-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 <br/>
+![Redis](https://img.shields.io/badge/Redis-Advanced-DC382D?style=flat-square&logo=redis&logoColor=white)
+<br/>
+![Hangfire](https://img.shields.io/badge/Hangfire-Advanced-1E1E2E?style=flat-square&logo=dotnet&logoColor=white)
+<br/>
+![Health Checks](https://img.shields.io/badge/ASP.NET%20Health%20Checks-Advanced-00b894?style=flat-square&logo=dotnet&logoColor=white)
+<br/>
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-Growing-00b894?style=flat-square)
-<br/>
-![Docker](https://img.shields.io/badge/Docker-Practicing-2496ED?style=flat-square&logo=docker&logoColor=white)
-<br/>
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Practicing-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 </td>
 </tr>
@@ -97,10 +105,22 @@ contact:     mo.sayed2037@gmail.com
 </details>
 
 <details open>
-<summary><b>🗄️ Data & Storage</b></summary>
+<summary><b>🧩 .NET Ecosystem & Reliability</b></summary>
 <br/>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mssql,postgres&theme=dark" height="60"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hangfire-1E1E2E?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Health%20Checks-00b894?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/SignalR-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🗄️ Data & Caching</b></summary>
+<br/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mssql,redis,postgres&theme=dark" height="60"/>
 </p>
 </details>
 
@@ -122,6 +142,43 @@ contact:     mo.sayed2037@gmail.com
 
 ---
 
+## 🧱 Architecture Highlights
+
+<table width="100%">
+<tr>
+<td align="center" width="25%">
+
+**🚀 Caching**
+<br/>
+Redis-backed caching to cut DB load and speed up hot-path reads
+
+</td>
+<td align="center" width="25%">
+
+**⏱️ Background Jobs**
+<br/>
+Hangfire for scheduled & fire-and-forget jobs, with a dashboard for job monitoring
+
+</td>
+<td align="center" width="25%">
+
+**❤️ Health Monitoring**
+<br/>
+ASP.NET Core Health Checks wired to DB, Redis & external dependencies
+
+</td>
+<td align="center" width="25%">
+
+**🧭 Clean Architecture**
+<br/>
+Layered API design following SOLID & separation of concerns
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 📈 Live Metrics Dashboard
 
 <div align="center">
@@ -132,6 +189,16 @@ contact:     mo.sayed2037@gmail.com
 <img src="https://streak-stats.demolab.com?user=MoSayed335&theme=radical&hide_border=true&fire=b983ff" width="70%"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=MoSayed335&theme=radical&no-frame=true&row=1&column=7" width="90%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MoSayed335/MoSayed335/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
