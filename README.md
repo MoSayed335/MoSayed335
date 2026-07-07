@@ -6,11 +6,8 @@
 
 <br/>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=MoSayed335.MoSayed335&title=VISITORS&edge_flat=false)
 ![profile views](https://komarev.com/ghpvc/?username=MoSayed335&color=b983ff&style=for-the-badge&label=PROFILE+VIEWS)
 [![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-00FF7F?style=for-the-badge&logo=briefcase&logoColor=black&labelColor=000000)](mailto:mo.sayed2037@gmail.com)
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/rocket-real.gif" width="100%" height="4">
 
 </div>
 
@@ -52,96 +49,78 @@ contact:     mo.sayed2037@gmail.com
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+---
 
 ## 🧬 Skill Matrix
 
 <table width="100%">
-<tr><td>
+<tr>
+<td width="50%">
 
-**C# / .NET Core**
-![](https://progress-bar.xyz/95?title=Expert&width=500&color=b983ff&suffix=%25)
+**Backend Core**
+<br/>
+![C#](https://img.shields.io/badge/C%23-Expert-239120?style=flat-square&logo=c-sharp&logoColor=white)
+<br/>
+![.NET](https://img.shields.io/badge/.NET-Expert-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+<br/>
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-Expert-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
+<br/>
+![EF Core](https://img.shields.io/badge/EF%20Core-Advanced-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-**ASP.NET Core Web API**
-![](https://progress-bar.xyz/90?title=Expert&width=500&color=6f42c1&suffix=%25)
+</td>
+<td width="50%">
 
-**Entity Framework Core**
-![](https://progress-bar.xyz/85?title=Advanced&width=500&color=512BD4&suffix=%25)
+**Data & Architecture**
+<br/>
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Advanced-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+<br/>
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-Growing-00b894?style=flat-square)
+<br/>
+![Docker](https://img.shields.io/badge/Docker-Practicing-2496ED?style=flat-square&logo=docker&logoColor=white)
+<br/>
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Practicing-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-**SQL Server / T-SQL**
-![](https://progress-bar.xyz/85?title=Advanced&width=500&color=CC2927&suffix=%25)
-
-**Clean Architecture / DDD**
-![](https://progress-bar.xyz/70?title=Growing&width=500&color=00b894&suffix=%25)
-
-**Docker / Kubernetes**
-![](https://progress-bar.xyz/60?title=Practicing&width=500&color=2496ED&suffix=%25)
-
-</td></tr>
+</td>
+</tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+---
 
-## 🕹️ Tech Stack — Interactive Panels
+## 🕹️ Tech Stack
 
-<details>
+<details open>
 <summary><b>💻 Backend & Language Core</b></summary>
 <br/>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio&theme=dark" height="60"/>
 </p>
-<p align="center">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-</p>
 </details>
 
-<details>
+<details open>
 <summary><b>🗄️ Data & Storage</b></summary>
 <br/>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mssql,postgres&theme=dark" height="60"/>
 </p>
-<p align="center">
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/DBeaver-100000?style=for-the-badge&logo=dbeaver&logoColor=white"/>
-</p>
 </details>
 
-<details>
+<details open>
 <summary><b>☁️ DevOps, Cloud & Tooling</b></summary>
 <br/>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman&theme=dark" height="60"/>
 </p>
-<p align="center">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-</p>
 </details>
 
-<details>
+<details open>
 <summary><b>🖥️ Editors & OS</b></summary>
 <br/>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=vscode,windows&theme=dark" height="60"/>
 </p>
-<p align="center">
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-</p>
 </details>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+---
 
 ## 📈 Live Metrics Dashboard
 
@@ -152,22 +131,11 @@ contact:     mo.sayed2037@gmail.com
 
 <img src="https://streak-stats.demolab.com?user=MoSayed335&theme=radical&hide_border=true&fire=b983ff" width="70%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MoSayed335&theme=redical&hide_border=true&bg_color=0d1117&color=b983ff&line=b983ff&point=ffffff" width="90%"/>
-
 <img src="https://github-profile-trophy.vercel.app/?username=MoSayed335&theme=radical&no-frame=true&row=1&column=7" width="90%"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 🐍 Contribution Graph — Snake Edition
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/MoSayed335/MoSayed335/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-<sub>⚙️ Requires the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action in your profile repo — ask me and I'll set it up.</sub>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+---
 
 ## 🎯 Currently Compiling
 
@@ -202,7 +170,7 @@ Backend Developer roles & collaborations
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+---
 
 <div align="center">
 
@@ -211,12 +179,6 @@ Backend Developer roles & collaborations
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mo7amed-abdelkader)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MoSayed335)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mo.sayed2037@gmail.com)
-
-<br/>
-
-### 💭 Quote of the Moment
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br/>
 
