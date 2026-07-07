@@ -1,18 +1,10 @@
 <div align="center">
 
 
-<img src="https://img.shields.io/badge/-%20-2D1B4E?style=flat-square&labelColor=2D1B4E" height="10" width="14%"/><img src="https://img.shields.io/badge/-%20-3D2266?style=flat-square&labelColor=3D2266" height="10" width="14%"/><img src="https://img.shields.io/badge/-%20-5C2D91?style=flat-square&labelColor=5C2D91" height="10" width="14%"/><img src="https://img.shields.io/badge/-%20-7B3FB0?style=flat-square&labelColor=7B3FB0" height="10" width="14%"/><img src="https://img.shields.io/badge/-%20-9955CC?style=flat-square&labelColor=9955CC" height="10" width="14%"/><img src="https://img.shields.io/badge/-%20-B983FF?style=flat-square&labelColor=B983FF" height="10" width="14%"/><img src="https://img.shields.io/badge/-%20-D4A6FF?style=flat-square&labelColor=D4A6FF" height="10" width="14%"/>
- 
-# 👋 MOHAMED SAYED
- 
-### `Backend Engineer` · `.NET & C#` · `API Architect`
- 
-![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-00FF7F?style=for-the-badge&logo=briefcase&logoColor=black&labelColor=000000)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Backend](https://img.shields.io/badge/BACKEND-B983FF?style=for-the-badge&logoColor=white&labelColor=1a1a2e)
- 
-<img src="https://img.shields.io/badge/-%20-D4A6FF?style=flat-square&labelColor=D4A6FF" height="10" width="14%"/><img src="https://img.shields.io/badge/-%20-B983FF?style=flat-square&labelColor=B983FF" height="10" width="14%"/><img src="https://img.shields.io/badge/-%20-9955CC?style=flat-square&labelColor=9955CC" height="10" width="14%"/><img src="https://img.shields.io/badge/-%20-7B3FB0?style=flat-square&labelColor=7B3FB0" height="10" width="14%"/><img src="https://img.shields.io/badge/-%20-5C2D91?style=flat-square&labelColor=5C2D91" height="10" width="14%"/><img src="https://img.shields.io/badge/-%20-3D2266?style=flat-square&labelColor=3D2266" height="10" width="14%"/><img src="https://img.shields.io/badge/-%20-2D1B4E?style=flat-square&labelColor=2D1B4E" height="10" width="14%"/>
- 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=MOHAMED%20SAYED&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=%3C%20Backend%20Engineer%20/%20.NET%20%26%20C%23%20/%20API%20Architect%20%3E&descAlignY=52&descSize=18&descAlign=50" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=25&duration=2500&pause=800&color=B983FF&center=true&vCenter=true&width=750&lines=%3E+whoami;Backend+Developer+crafting+.NET+APIs;%3E+cat+skills.json;C%23+%7C+ASP.NET+Core+%7C+EF+Core+%7C+SQL+Server;%3E+cat+resilience.json;Redis+%7C+Hangfire+%7C+Health+Checks;%3E+status+--current;Compiling+ideas+into+production+code..." alt="Typing SVG"/>
+
 <br/>
 
 ![profile views](https://komarev.com/ghpvc/?username=MoSayed335&color=b983ff&style=for-the-badge&label=PROFILE+VIEWS)
