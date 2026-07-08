@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=250&amp;section=header&amp;text=MOHAMED%20SAYED&amp;fontSize=70&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=%3C%20Backend%20Engineer%20/%20.NET%20%26%20C%23%20/%20API%20Architect%20%3E&amp;descAlignY=52&amp;descSize=18&amp;descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=250&amp;section=header&amp;text=MOHAMED%20SAYED&amp;fontSize=70&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Backend%20Engineer%20%7C%20.NET%20and%20C%23%20%7C%20API%20Architect&amp;descAlignY=52&amp;descSize=18&amp;descAlign=50" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=700&amp;size=25&amp;duration=2500&amp;pause=800&amp;color=B983FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=%3E+whoami;Backend+Developer+crafting+.NET+APIs;%3E+cat+skills.json;C%23+%7C+ASP.NET+Core+%7C+EF+Core+%7C+SQL+Server;%3E+cat+resilience.json;Redis+%7C+Hangfire+%7C+Health+Checks;%3E+status+--current;Compiling+ideas+into+production+code..." alt="Typing SVG"/>
 
