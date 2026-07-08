@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=MOHAMED%20SAYED&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=%3C%20Backend%20Engineer%20/%20.NET%20%26%20C%23%20/%20API%20Architect%20%3E&descAlignY=52&descSize=18&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=B983FF&center=true&vCenter=true&width=700&lines=%3E+whoami;Backend+Developer+crafting+.NET+APIs;%3E+cat+skills.json;C%23+%7C+ASP.NET+Core+%7C+EF+Core+%7C+SQL+Server;%3E+status+--current;Compiling+ideas+into+production+code..." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=25&duration=2500&pause=800&color=B983FF&center=true&vCenter=true&width=750&lines=%3E+whoami;Backend+Developer+crafting+.NET+APIs;%3E+cat+skills.json;C%23+%7C+ASP.NET+Core+%7C+EF+Core+%7C+SQL+Server;%3E+cat+resilience.json;Redis+%7C+Hangfire+%7C+Health+Checks;%3E+status+--current;Compiling+ideas+into+production+code..." alt="Typing SVG"/>
 
 <br/>
 
