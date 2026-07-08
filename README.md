@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=MOHAMED%20SAYED&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=%3C%20Backend%20Engineer%20/%20.NET%20%26%20C%23%20/%20API%20Architect%20%3E&descAlignY=52&descSize=18&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=250&amp;section=header&amp;text=MOHAMED%20SAYED&amp;fontSize=70&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=%3C%20Backend%20Engineer%20/%20.NET%20%26%20C%23%20/%20API%20Architect%20%3E&amp;descAlignY=52&amp;descSize=18&amp;descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=25&duration=2500&pause=800&color=B983FF&center=true&vCenter=true&width=750&lines=%3E+whoami;Backend+Developer+crafting+.NET+APIs;%3E+cat+skills.json;C%23+%7C+ASP.NET+Core+%7C+EF+Core+%7C+SQL+Server;%3E+cat+resilience.json;Redis+%7C+Hangfire+%7C+Health+Checks;%3E+status+--current;Compiling+ideas+into+production+code..." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=700&amp;size=25&amp;duration=2500&amp;pause=800&amp;color=B983FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=%3E+whoami;Backend+Developer+crafting+.NET+APIs;%3E+cat+skills.json;C%23+%7C+ASP.NET+Core+%7C+EF+Core+%7C+SQL+Server;%3E+cat+resilience.json;Redis+%7C+Hangfire+%7C+Health+Checks;%3E+status+--current;Compiling+ideas+into+production+code..." alt="Typing SVG"/>
 
 <br/>
 
@@ -100,7 +100,7 @@ contact:     mo.sayed2037@gmail.com
 <summary><b>💻 Backend & Language Core</b></summary>
 <br/>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio&theme=dark" height="60"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio&amp;theme=dark" height="60"/>
 </p>
 </details>
 
@@ -120,7 +120,7 @@ contact:     mo.sayed2037@gmail.com
 <summary><b>🗄️ Data & Caching</b></summary>
 <br/>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mssql,redis,postgres&theme=dark" height="60"/>
+<img src="https://skillicons.dev/icons?i=mssql,redis,postgres&amp;theme=dark" height="60"/>
 </p>
 </details>
 
@@ -128,7 +128,7 @@ contact:     mo.sayed2037@gmail.com
 <summary><b>☁️ DevOps, Cloud & Tooling</b></summary>
 <br/>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman&theme=dark" height="60"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman&amp;theme=dark" height="60"/>
 </p>
 </details>
 
@@ -136,7 +136,7 @@ contact:     mo.sayed2037@gmail.com
 <summary><b>🖥️ Editors & OS</b></summary>
 <br/>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,windows&theme=dark" height="60"/>
+<img src="https://skillicons.dev/icons?i=vscode,windows&amp;theme=dark" height="60"/>
 </p>
 </details>
 
@@ -183,12 +183,12 @@ Layered API design following SOLID & separation of concerns
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MoSayed335&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoSayed335&layout=compact&theme=radical&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MoSayed335&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoSayed335&amp;layout=compact&amp;theme=radical&amp;hide_border=true" height="170"/>
 
-<img src="https://streak-stats.demolab.com?user=MoSayed335&theme=radical&hide_border=true&fire=b983ff" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=MoSayed335&amp;theme=radical&amp;hide_border=true&amp;fire=b983ff" width="70%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=MoSayed335&theme=radical&no-frame=true&row=1&column=7" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MoSayed335&amp;theme=radical&amp;no-frame=true&amp;row=1&amp;column=7" width="90%"/>
 
 </div>
 
@@ -249,8 +249,8 @@ Backend Developer roles & collaborations
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=b983ff&center=true&vCenter=true&width=600&lines=%2B+Always+learning...;%2B+Always+shipping...;%2B+Always+debugging+with+a+smile+%F0%9F%98%84" alt="footer typing"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&amp;weight=600&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=b983ff&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=%2B+Always+learning...;%2B+Always+shipping...;%2B+Always+debugging+with+a+smile+%F0%9F%98%84" alt="footer typing"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=150&amp;section=footer" width="100%"/>
 
 </div>
